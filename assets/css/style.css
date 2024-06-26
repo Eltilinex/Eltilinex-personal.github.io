@@ -1,0 +1,129 @@
+
+
+.cabecera{
+  text-align: center;
+  }
+    
+
+body{ 
+color: #FFFFFF;  
+background-image: url('https://wallpapersmug.com/download/1920x1080/8d554d/celestial-world-digital-art-space-colorful.jpg');
+}
+.principal{
+float: left;
+    width: 50%;
+    text-align: center;
+}
+
+.lateral{
+    width: 45%;
+float: right;
+}
+
+.logos{
+  padding: 10px;
+  border-color: blanchedalmond;
+  border: 2px #FFFFFF;
+  border-radius: 2px;
+}
+
+.menu>ul>li>a{
+    color: #FFFFFF;
+    text-decoration: none;  
+  }
+  /*estas utilizando una pseudocodigo de CSS, HOVER reacciona al cursor*/
+  .menu ul li a:hover{
+  color: rgba(223, 55, 17, 0.859);
+  font-size: 1.5em;/*medida relativa para fuentes*/
+  /*↑ lo relacionado con index*/
+  }
+  
+.menu ul li{
+    display: inline;
+    padding: 10px;
+    list-style: none;
+    border-style: solid;
+    border-color:  #FFFFFF;
+    margin-left: 20px;
+    border-radius: 15px;
+    background-color:#1B263B;
+    box-shadow: 4px 5px ;
+    }
+   
+
+  h1 {
+    color:#FFFFFF;/*color del frente*/
+    background-color:#1B263B;/*color del fondo del caja */
+    padding: 25px;/*ancho del marco interno*/
+    border-radius: 8px;/*redondeo de los bordes de la caja*/
+    text-align: center;/*aplicacion del texto contenido en la caja*/
+    border: 5px  solid rgb(0, 0, 0);/*estilo de borde y el color */
+  }
+
+  .contenedor{
+    width: 100%;/*ancho de la capa contenedora*/
+    margin: 0 auto ; /*centra el contenedor*/
+  }
+
+  p{
+    padding-left: 10px;
+   border-radius: 10px;
+    margin-left: 10px;
+    background-color: #4A90E2;
+    color: #FFFFFF;
+  }
+
+  .pie_pagina{
+    clear: both;
+    color:#D7E7F5;
+    background-color: black;
+    padding: 50px;
+    height: 150px;
+  font-size: 12px;}
+
+  .rsocial{
+    float: right;
+    width: 45% ;
+  }
+
+  .info{
+    float: left;
+    width: 45%;
+  }
+
+  h2{
+    color: #FFFFFF;
+    background-color:#1B263B;
+    padding: 8px;
+  border-radius: 5px;
+  border: 2px solid green
+  }
+
+  .logos{
+    padding: 12px;
+    border: px solid ;
+    border-radius: 5px;
+
+  }
+  .lateral1{
+    width: 45%;
+    float: right;
+    border: 2px solid;
+    color:aqua;
+    background-image: url('https://wallpapersmug.com/download/1920x1080/8d554d/celestial-world-digital-art-space-colorful.jpg');
+   text-align: center;
+
+  }
+
+  p1{
+    color: #FFFFFF;
+  }
+.contenedor1{
+  width: 100%;
+  text-align: center;
+}
+
+.principal1{
+  background-image: url('https://wallpapersmug.com/download/1920x1080/8d554d/celestial-world-digital-art-space-colorful.jpg');
+  float: center;
+}
